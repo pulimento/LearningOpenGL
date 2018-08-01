@@ -26,5 +26,16 @@
     <ClInclude Include="MainClass.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="shader.frag">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="shader.vert">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
